@@ -1,0 +1,3 @@
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntities\obj\Debug\AluraTunesEntities.csproj.AssemblyReference.cache
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntities\obj\Debug\AluraTunesEntities.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntities\obj\Debug\AluraTunesEntities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\AluraTunes.mdf
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\AluraTunes_log.ldf
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\Data\AluraTunes.mdf
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\Data\AluraTunes_log.ldf
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\AluraTunesEntitiees.exe.config
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\AluraTunesEntitiees.exe
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\AluraTunesEntitiees.pdb
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\EntityFramework.dll
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\EntityFramework.xml
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.csproj.AssemblyReference.cache
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.csproj.CopyComplete
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.exe
+C:\Users\gabriel.vruck\Source\repos\AluraTunes\AluraTunesEntitiees\obj\Debug\AluraTunesEntitiees.pdb
